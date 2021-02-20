@@ -19,4 +19,4 @@ ex: python mazesolver.py -i inputfile.txt -o outputfile.txt
 ```
 ### After running this command automatically the shortest path from the start point of the maze to end point of the maze is written in to the output file. If there is no such shortest path for the maze which the user have given then this program will write "-1" to the output file
 ## Output :
-![alt text] (https://github.com/attainu/python-project-munnuru-srinath-au16/blob/dev/Screenshots/Screenshot%20(155).png)
+![image] (https://github.com/attainu/python-project-munnuru-srinath-au16/blob/dev/Screenshots/Screenshot%20(155).png)
